@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "4q4mG67fWY8ck8RYb2qkr5fVjPhk2QFGxG6Rzmij7rPo"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_2GzkJvaL7TdylWNlrH1Z7w9YbplqnyLdcBl",
+  "serviceFee": 2.5,
+  "currencyOption": "SOL",
+  "name": "DartaCamp",
+  "logo": "https://collections.mirrorworld.fun/1677757212251-bb.png"
 }
