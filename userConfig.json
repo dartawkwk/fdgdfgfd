@@ -1,11 +1,11 @@
 {
   "collections": [
-    "4q4mG67fWY8ck8RYb2qkr5fVjPhk2QFGxG6Rzmij7rPo"
+    "8jSSnCFAW2P6Ci7yxDkK17yXU6JkuuqEGvemiuZcmVZ"
   ],
   "network": "devnet",
-  "xApiKey": "mw_2GzkJvaL7TdylWNlrH1Z7w9YbplqnyLdcBl",
-  "serviceFee": 2.5,
+  "xApiKey": "mw_LTS7VGemFqC1mmk6XheXoz3K6ZlJSAhAA2m",
+  "serviceFee": 2,
   "currencyOption": "SOL",
-  "name": "DartaCamp",
-  "logo": "https://collections.mirrorworld.fun/1677757212251-bb.png"
+  "name": "RakiNFTMarket",
+  "logo": "https://collections.mirrorworld.fun/1678242291429-34.jpg"
 }
