@@ -1,11 +1,11 @@
 {
   "collections": [
-    "8jSSnCFAW2P6Ci7yxDkK17yXU6JkuuqEGvemiuZcmVZ"
+    "5LtktmsvuBAs96toYcp7jXAZneyqZYRAidEyW8aGyjhL"
   ],
   "network": "devnet",
-  "xApiKey": "mw_LTS7VGemFqC1mmk6XheXoz3K6ZlJSAhAA2m",
-  "serviceFee": 2,
+  "xApiKey": "mw_WPzHh8CtxNURvrvd1KSWoVoQRnF1gpLJ18W",
+  "serviceFee": 1,
   "currencyOption": "SOL",
-  "name": "RakiNFTMarket",
-  "logo": "https://collections.mirrorworld.fun/1678242291429-34.jpg"
+  "name": "Vdsmmtg",
+  "logo": "https://collections.mirrorworld.fun/1678243913609-bb.png"
 }
